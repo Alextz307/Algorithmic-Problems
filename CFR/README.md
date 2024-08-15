@@ -1,6 +1,6 @@
 # [CFR](https://www.pbinfo.ro/probleme/4145/cfr)
 
-This is the first problem that I created for a programming competition (and one of the two created for this particular competition, specifically RAU-Coder).
+This is the first problem that I created for a programming competition and one of the three created for this particular competition, specifically RAU-Coder.
 
 ## Problem statement 
 
